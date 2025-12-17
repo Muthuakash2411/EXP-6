@@ -22,8 +22,8 @@ I. Connect the multimeter at the output of kit..
 OBSERVATION TABLE
 | Displacement Type | Input Voltage (V) | Output Voltage | Frequency (Hz) | Time (1/f) |
 |-------------------|------------------|----------------|---------------|------------|
-| Positive Displacement | 7 | 2.2 V (0–5 mm) | 1000 | 1/1000 = 1 ms |
-| Negative Displacement | 7 | 0 V (−5 mm) | 1000 | 1 ms |
+| Positive Displacement | 7 | 2.2 V (D=5 mm) | 1000 | 1/1000 = 1 ms |
+| Negative Displacement | 7 | 0 V (D=−5 mm) | 1000 | 1 ms |
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
